@@ -1,4 +1,5 @@
 AI Use Log
+
 Stage / Week	AI Tool	Used for	How the output was used
 Stage 1, Wk 4	ChatGPT	A1 – App Recap	Used ChatGPT to improve the app description. We reviewed and edited the suggestions to match our app.
 Stage 1, Wk 4	Claude	A2 – Style Guide	Used Claude to clarify design guidelines. We reviewed the suggestions and selected the ones that matched our design.
