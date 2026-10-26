@@ -1,6 +1,4 @@
- 
-Readme · MD
-# Enara
+ # Enara
 Enara — School Finder for Children with Autism
  
 ## Project Overview
@@ -40,6 +38,8 @@ The application serves as a school discovery and information platform; the offic
 - **Style guide:** [`docs/style-guide.md`](docs/style-guide.md) — Material 3, light theme, RTL-ready
 - **Navigation map:** [`docs/navigation-map.png`](docs/navigation-map.png)
 - **Wireframes:** [`docs/wireframes/`](docs/wireframes/) — one image per screen
+### Screens
+ 
 | # | Screen | Wireframe |
 |---|---|---|
 | 1 | Welcome | `Welcome.png` |
@@ -73,7 +73,10 @@ Data    →  Repository implementations · SchoolRemoteDataSource · FavoritesLo
 Details: [`docs/architecture.md`](docs/architecture.md) · Diagram: [`docs/architecture.png`](docs/architecture.png)
  
 ## Technologies
-- **Language:** Kotlin (Android)
+**Language:** Kotlin (Android)
+ 
+### Libraries
+ 
 | Layer | Libraries |
 |---|---|
 | UI | Jetpack Compose, Material 3, Navigation Compose, Lifecycle ViewModel, Coil, Maps Compose |
@@ -100,6 +103,7 @@ The reason for each library is documented in the Milestone 2 submission, section
 - **Project:** Enara
 - **Group:** Group 1
 - **Instructor:** Dr. Nourah Alqahtani
+| Name | Student ID |
  
  
 ## Disclaimer
