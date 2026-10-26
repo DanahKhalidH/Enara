@@ -31,7 +31,7 @@ Enara is being developed as a mobile application for the CSC 402 Mobile Applicat
 
 UI/UX Design
 The application’s interface prototype is available on Figma:
-https://www.figma.com/design/aUx91ELt3xh3LTbzbP7oL9/Untitled?node- id=0-
+https://www.figma.com/design/aUx91ELt3xh3LTbzbP7oL9/Untitled?node-id=0-
 1&t=s9wH6TjSDQCnWfvM-1
 
 
