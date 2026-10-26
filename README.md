@@ -100,14 +100,7 @@ The reason for each library is documented in the Milestone 2 submission, section
 - **Project:** Enara
 - **Group:** Group 1
 - **Instructor:** Dr. Nourah Alqahtani
-| Name | Student ID |
-|---|---|
-| Rehan Mohammd (Team Leader) | 2240007516 |
-| Danah Alhajri | 2240006901 |
-| Aseel Alqahtani | 2240005478 |
-| Rimas Alotaibi | 2240007748 |
-| Lama Alzahrani | 2240003242 |
-| Sadeem Alosaimi | 2240006171 |
+ 
  
 ## Disclaimer
 School information and available services should be verified with the relevant schools. Enara helps families discover and compare educational options but does not guarantee admission or replace direct communication with schools.
