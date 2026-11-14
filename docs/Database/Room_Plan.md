@@ -1,7 +1,5 @@
 Enara– Room Database Plan
 
-CSC 402 – Milestone 3-A: Database Design
-
 1. Overview
 
 This section describes the Room Database design for the Enarah application. Room (SQLite) is used as the local database to organize and manage application data, including users, schools, reviews, favorites, autism levels, services, and specialists.
