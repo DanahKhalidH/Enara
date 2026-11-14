@@ -19,5 +19,4 @@ Each screen from the Milestone 2 navigation map, with the tables it reads and wr
 | No Results | Same query as Search Results, returns 0 rows; shows the selected filters from the ViewModel | — |
 | Maps | School (schoolId, name, city, address, schoolType); SchoolAutismLevel + AutismLevel (levelName); each pin is placed from the school address | — |
 | School Location | School (name, city, address, schoolType); SchoolAutismLevel + AutismLevel (levelName); the pin is placed from the school address | — (Get Directions / Open in Maps open the phone's maps app) |
-
-* User.childLevelId (Int, FK to AutismLevel, nullable) must be added to the schema so School Review can show "Parent of a Level X child".
+ 
