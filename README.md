@@ -42,21 +42,20 @@ The application serves as a school discovery and information platform; the offic
  
 | # | Screen | Wireframe |
 |---|---|---|
-| 1 | Welcome | `Welcome.png` |
-| 2 | My Profile | `Profile.png` |
-| 3 | Home | `Home.png` |
-| 4 | Search Schools | `Search.png` |
-| 5 | Filters | `Filters.png` |
-| 6 | Search Results | `Result.png` |
-| 7 | School Details | `Details.png` |
-| 8 | School Review | `Review.png` |
-| 9 | Services & Specialists | `Services.png` |
-| 10 | Maps | `Maps.png` |
-| 11 | Contact School | `ContactSchool.png` |
-| 12 | Favorites | `Favorites.png` |
-| 13 | Autism Level Guide | `Levels.png` |
-| 14 | No School Found (empty state) | `NoSchoolFound.png` |
-| 15 | School Location | `Location.png` |
+|  1  | Welcome | `Welcome.png` |
+|  2  | My Profile | `Profile.png` |
+|  3  | Home | `Home.png` |
+|  4  | Search Schools | `Search.png` |
+|  5  | Filters | `Filters.png` |
+|  6  | Search Results | `Result.png` |
+|  7  | School Details | `Details.png` |
+|  8  | School Review | `Review.png` |
+|  9  | Services & Specialists | `Services.png` |
+|  10 | Maps | `Maps.png` |
+|  11 | Contact School | `ContactSchool.png` |
+|  12 | Favorites | `Favorites.png` |
+|  13 | Autism Level Guide | `Levels.png` |
+|  14 | School Location | `Location.png` |
  
 ---
  
