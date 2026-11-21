@@ -1,16 +1,16 @@
- # Enara
-Enara — School Finder for Children with Autism
+ # Enarah
+Enarah — School Finder for Children with Autism
  
 ## Project Overview
-Enara is a mobile application designed to help parents and guardians of children with Autism Spectrum Disorder (ASD) find suitable schools in the Eastern Province of Saudi Arabia. The application provides a centralized platform where users can explore schools and compare their information based on the child's support needs and the school's available services.
+Enarah is a mobile application designed to help parents and guardians of children with Autism Spectrum Disorder (ASD) find suitable schools in the Eastern Province of Saudi Arabia. The application provides a centralized platform where users can explore schools and compare their information based on the child's support needs and the school's available services.
  
 ## Problem Statement
 Finding a suitable school for a child with Autism Spectrum Disorder can be challenging for parents. Information about schools, accepted autism support levels, and available services may be scattered across different sources. Parents often need to contact schools individually to determine whether they can meet their child's needs.
  
-Enara aims to simplify this process by bringing relevant school information together in one accessible application.
+Enarah aims to simplify this process by bringing relevant school information together in one accessible application.
  
 ## Proposed Solution
-Enara allows parents to search for schools based on the child's autism support level, location, and school type. Each school listing provides useful information, available services, contact details, and location information to help parents make informed decisions.
+Enarah allows parents to search for schools based on the child's autism support level, location, and school type. Each school listing provides useful information, available services, contact details, and location information to help parents make informed decisions.
  
 The application serves as a school discovery and information platform; the official enrollment process remains the responsibility of each school.
  
@@ -61,7 +61,7 @@ The application serves as a school discovery and information platform; the offic
 ---
  
 ## Architecture
-Enara follows a three-layer architecture (UI / Domain / Data) with Unidirectional Data Flow: user events go down, state comes back up.
+Enarah follows a three-layer architecture (UI / Domain / Data) with Unidirectional Data Flow: user events go down, state comes back up.
  
 ```
 UI      →  Compose screens · ViewModels · UiState / UiEvent · NavHost
@@ -100,11 +100,11 @@ The reason for each library is documented in the Milestone 2 submission, section
  
 ## Course Information
 - **Course:** CSC 402 — Mobile Application Programming
-- **Project:** Enara
+- **Project:** Enarah
 - **Group:** Group 1
 - **Instructor:** Dr. Nourah Alqahtani
  
  
  
 ## Disclaimer
-School information and available services should be verified with the relevant schools. Enara helps families discover and compare educational options but does not guarantee admission or replace direct communication with schools.
+School information and available services should be verified with the relevant schools. Enarah helps families discover and compare educational options but does not guarantee admission or replace direct communication with schools.
